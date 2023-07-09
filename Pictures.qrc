@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>images/2Q2.jpg</file>
+        <file>images/2Q4.jpg</file>
+        <file>images/2Q5.jpg</file>
+        <file>images/bg.jpg</file>
+        <file>images/Q1.jpg</file>
+        <file>images/Q2.jpg</file>
+        <file>images/Q3.jpg</file>
+        <file>images/Q4.jpg</file>
+        <file>images/signin.jpg</file>
+        <file>images/levelsbg.jpg</file>
+        <file>images/bg - Copy.jpg</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/answer2 (1).jpg</file>
+        <file>images/congrats.jpg</file>
+        <file>images/30268093.jpg</file>
+        <file>images/Q3L3.jpg</file>
+        <file>images/Q1L3.jpg</file>
+    </qresource>
+</RCC>
